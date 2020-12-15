@@ -27,7 +27,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.2",
+    "@babel/runtime": "^7.12.5",
     "esm": "^3.2.22",
     "minimist": "^1.2.0",
     "puppeteer": "^1.14.0"
